@@ -1,0 +1,46 @@
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+body {
+  margin: 60px;
+  background-color: lightcyan;
+}
+
+.chess {
+  height: 25px;
+  width: 25px;
+  margin-right: -1px;
+  margin-top: -3px;
+}
+
+#buttonDiv button {
+  width: 50px;
+  height: 30px;
+  margin-top: 5px;
+  color: white;
+  background-color: black;
+}
+
+#buttonDiv .change_btn2 {
+  width: 50px;
+  height: 30px;
+  margin-left: 95px;
+  margin-top: 5px;
+  color: white;
+  background-color: black;
+}
+
+.yellowButton {
+  background-color: yellow;
+  color: black;
+}
+
+.redButton {
+  background-color: red;
+  color: black;
+}
